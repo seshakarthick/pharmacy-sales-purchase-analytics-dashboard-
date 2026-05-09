@@ -57,4 +57,4 @@ This project demonstrates practical business analytics and dashboarding skills u
 ---
 
 ## Author
-Karthick
+Sesha Karthick G
