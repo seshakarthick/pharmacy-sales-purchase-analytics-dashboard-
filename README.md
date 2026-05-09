@@ -51,19 +51,6 @@ The dashboard provides insights into:
 
 ---
 
-## Screenshots
-
-### Dashboard Overview
-![Dashboard](Screenshots/dashboard-overview.png)
-
-### Sales Trend Analysis
-![Sales Trend](Screenshots/sales-trend.png)
-
-### Supplier Analysis
-![Supplier Analysis](Screenshots/supplier-analysis.png)
-
----
-
 ## Business Outcome
 This project demonstrates practical business analytics and dashboarding skills using Microsoft Excel for decision-making and reporting.
 
